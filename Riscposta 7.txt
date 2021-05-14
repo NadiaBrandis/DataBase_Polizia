@@ -1,0 +1,1 @@
+select Nome,Cognome from alunno join classe on alunno.ID= classe.ID
